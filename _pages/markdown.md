@@ -1,11 +1,38 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Contact Information"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+
+### Address:
+IMT Mines Alès <br>
+1A Rue Jules Renard, 30100 Alès <br>
+Office M111
+
+### Phone  
++33 (0) 43 42 46 270
+
+### Email  
+[gustavo.andrade-miranda@mines-ales.fr](mailto:gustavo.andrade-miranda@mines-ales.fr) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %}
 
 ## Locations of key files/directories
 
@@ -291,3 +318,4 @@ This allows you to denote <var>variables</var>.
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
+{% endcomment %}

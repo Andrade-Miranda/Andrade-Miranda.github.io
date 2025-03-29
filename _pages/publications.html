@@ -1,36 +1,82 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<div style="text-align: left;"> 
+  <h2 style="color: #52adc8;">Research interests</h2> 
+  <ul>
+    <li>Signal and image processing</li>
+    <li>Multimodal learning</li>
+    <li> Trustworthy and Explainable AI</li>
+    <li> Transfer Learning & Foundational Models</li>
+    <li>Computational Medical Imaging and Diagnostics</li>
+  </ul>
+</div>
+<hr>
+
+<div style="text-align: left;"> 
+  <h2 style="color: #52adc8;">Active Projects</h2> 
+  <hr>
+
+
+<div style="text-align: left;"> 
+  <h2 style="color: #52adc8;">Past Projects</h2> 
+  <ul>
+    <li><strong>FCI083-2023</strong> – Proposal for the design of an intelligent system for monitoring and flexibilization of production in a dry product filling plant</li>
+    <li><strong>DIANA</strong> – Démocratiser l’imagerie de fusion dans le cancer de la prostate</li>
+    <li><strong>RADIUS</strong> – Registration of biomechanic AI models with Ultrasound images</li>
+    <li><strong>FLAG</strong> – Fusion multimodale et apprentissage faiblement supervisé pour la segmentation du cancer de la prostate</li>
+    <li><strong>FOLLOWKNEE</strong> – Innovative workflow in knee replacement surgery (ANR-17-RHUS-0005)</li>
+    <li><strong>Computational characterization of voice pathologies</strong> through the movement of the vocal folds (FCI063-2019)</li>
+    <li><strong>NeuroVoz</strong> – Multimodal Evaluation of Neurological Disorders Through Voice Characterization</li>
+  </ul>
+  </div>  
+
+
+
+
+
+
+
+
+
+  {% comment %}
+
+<!-- Check if publication categories are defined in _config.yml -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
+
+<!-- Loop through each defined publication category -->
+{% for category in site.publication_category  %}
+  {% assign title_shown = false %}
+
+  <!-- Loop through all posts in the 'publications' collection in reverse order -->
   {% for post in site.publications reversed %}
+
+    <!-- Skip the post if its category does not match the current category in the loop -->
+    {% if post.category != category[0] %}
+      {% continue %}
+    {% endif %}
+
+    <!-- Ensure the category title is only shown once (optional: could add title rendering here) -->
+    {% unless title_shown %}
+      {% assign title_shown = true %}
+      <!-- Optional: add heading here like <h2>{{ category[1].title }}</h2> -->
+    {% endunless %}
+
+    <!-- Render the post using the archive-single.html include -->
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endfor %}
 
-
-
+<!-- If no publication categories are defined, render all posts without categorization -->
+{% else %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %} 
+{% endcomment %}
