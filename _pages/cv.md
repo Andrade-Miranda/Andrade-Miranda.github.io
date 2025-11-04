@@ -31,6 +31,8 @@ Work experience
 
 Awards & Distinctions
 ======
+- **3rd Prize Winner in the PINKCC Challenge 2025**  
+  *PINKCC Challenge final at ICM in Montpellier, organized with SIRIC Montpellier. The goal of the challenge was to segment tumors and metastases in CT scans from ovarian cancer patients.*
 
 - **Gunnar Rugheimer Award for Best Scientific Poster at PEVOC 13**  
   *Pan European Voice Conference, Copenhagen, Denmark.*  

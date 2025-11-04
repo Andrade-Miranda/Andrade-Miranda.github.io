@@ -16,7 +16,15 @@ redirect_from:
 </div>
 
 <div style="text-align: justify;"> 
-  <h2>📰 News!</h2> 
+  <h2>📰 News!</h2>
+
+
+  <p><strong>📄 Paper Alert</strong></p>
+
+<p><strong style="color: #52adc8;">November 2025:</strong> Our article <em>Exploring learning transferability in deep segmentation of colorectal cancer liver metastases</em> has now been published in <strong>Computers in Biology and Medicine</strong> 🎉</p> 
+<p>🔗 <strong>Journal Paper:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S0010482525014283" target="_blank">Read on ScienceDirect</a></p> 
+
+<hr style="margin: 24px 0;">
   
 <p><strong style="color: #52adc8;">June 2025:</strong> <p><strong>🏆 3rd Prize Winner in the PINKCC Challenge</strong></p>
 <p>
