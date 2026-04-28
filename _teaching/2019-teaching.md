@@ -1,5 +1,5 @@
 ---
-title: " Advanced Signal Processing Technology"
+title: " Advanced Signal Processing Technology, 2019"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2019-teaching
@@ -9,8 +9,6 @@ location: "Ambato, Ecuador"
 ---
 
 This course provided an in-depth exploration of **Advanced Signal Processing Technology**, covering fundamental and advanced topics in digital signal processing (DSP) and its applications in image processing.
-![Image](/images/ImageProcessing.png){: style="display:block; margin:auto; width:40%;" }
-
 
 Below is a structured summary of the key topics covered:
 

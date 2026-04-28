@@ -21,6 +21,20 @@ redirect_from:
 
   <p><strong>📄 Paper Alert</strong></p>
 
+<p><strong style="color: #52adc8;">April 2026:</strong> Our article <em>Temporally Consistent and Controllable Video Generation of 2D Cine CMR via Latent Space Motion Modeling</em> has been accepted to <strong> ISBI 2026</strong> 🎉</p> 
+<p>🔗 <strong>Conference Paper:</strong> <a href="https://hal.science/hal-05558722/" target="_blank">Read on HAL</a></p> 
+
+<hr style="margin: 24px 0;">
+
+<p><strong>🎤 Interview Highlight</strong></p>
+
+<p><strong style="color: #52adc8;">May 2026:</strong> You can find my interview for the <strong>PINKCC Challenge</strong> at the link below, where I discuss our approach and contributions.</p> 
+<p>🔗 <strong>Interview:</strong> <a href="https://imtech.imt.fr/2026/02/17/imagerie-medicale-des-algorithmes-pour-mieux-diagnostiquer-le-cancer-de-lovaire/" target="_blank">Read the interview</a></p>
+
+<hr style="margin: 24px 0;">
+
+  <p><strong>📄 Paper Alert</strong></p>
+
 <p><strong style="color: #52adc8;">November 2025:</strong> Our article <em>Exploring learning transferability in deep segmentation of colorectal cancer liver metastases</em> has now been published in <strong>Computers in Biology and Medicine</strong> 🎉</p> 
 <p>🔗 <strong>Journal Paper:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S0010482525014283" target="_blank">Read on ScienceDirect</a></p> 
 
