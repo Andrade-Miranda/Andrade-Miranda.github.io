@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-  <p>I am an Associate Professor (Maître de Conférences) at IMT Mines Alès. My research focuses on AI-driven multimodal learning for biomedical applications. Previously, I was a researcher at <a href="https://nouveau.univ-brest.fr/latim/fr">LaTIM</a> (UMR 1101 INSERM, Brest, France), where I worked on applying AI to medical imaging and computational modeling.</p>
+  <p>I am an Associate Professor (Maître de Conférences) at IMT Mines Alès, where I am a member of the SyCoIA (Complex Systems and Artificial Intelligence) research unit and the CORTEX (COntext-aware, RobusT and EXplainable AI) research theme. My research focuses on trustworthy and multimodal artificial intelligence, with particular interest in medical imaging and biomedical applications. I develop and evaluate AI methods that are robust, explainable, uncertainty-aware, and capable of operating reliably in complex and changing environments, with a strong emphasis on their translation to real-world applications.</p>
 
-  <p>I hold a Ph.D. in Biomedical Engineering from Universidad Politécnica de Madrid, an M.Sc. in Systems and Services Engineering for the Information Society from the same institution, and a Bachelor's degree from Universidad Politécnica del Litoral, Guayaquil, Ecuador.</p>
+  <p>Previously, I was a researcher at <a href="https://nouveau.univ-brest.fr/latim/fr">LaTIM</a> (UMR 1101 INSERM, Brest, France), where I worked on artificial intelligence for medical image analysis and computational modeling. I hold a Ph.D. in Biomedical Engineering from Universidad Politécnica de Madrid, an M.Sc. in Systems and Services Engineering for the Information Society from the same institution, and a Bachelor's degree from Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador.</p>
 
-  <p>My expertise lies in image processing, computer vision, and deep learning, with a particular focus on biomarker extraction from physiological and pathological processes. I explore multimodal learning and foundational models to advance oncology and clinical decision support. A key aspect of my work is enhancing AI model interpretability and explainability, ensuring their practical application in real-world clinical settings.</p>
+  <p>My research interests span deep learning, computer vision, multimodal learning, foundation models, and trustworthy AI. A central part of my work investigates the reliability and generalizability of AI systems, including uncertainty estimation, robustness to domain shifts, explainability, model auditing, and quality assessment. I am particularly interested in understanding when and why AI models fail, how these failures can be detected and mitigated, and how human knowledge and interaction can be incorporated into AI systems to support more reliable decision-making. These methodological questions are explored primarily in medical imaging and oncology, including multimodal imaging, segmentation, quantitative biomarker extraction, and clinical decision support, while increasingly extending to other complex application domains.</p>
+
+  <p>More broadly, my research aims to contribute to robust, explainable, adaptive, and human-centered AI systems, bridging methodological advances in artificial intelligence with their validation and deployment in real-world environments.</p>
 </div>
 
 <div style="text-align: justify;"> 
@@ -68,5 +70,4 @@ redirect_from:
   <p><strong style="color: #52adc8;">January 2025:</strong> Our dataset paper <em>"GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation"</em> has been accepted in <strong>Data in Brief</strong></p>
   <p>🔗 <strong>GitHub Repository:</strong> <a href="https://github.com/Andrade-Miranda/GIRAFE" target="_blank">GIRAFE</a></p>
   <p>🔗 <strong>Journal Paper:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S2352340925001088" target="_blank">Read on ScienceDirect</a></p>
-
 
