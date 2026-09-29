@@ -20,6 +20,11 @@ redirect_from:
 <div style="text-align: justify;"> 
   <h2>📰 News!</h2>
 
+  <p><strong>🏆 New Project: TWIN-OPHTHALMO</strong></p>
+  <p><strong style="color: #52adc8;">2027:</strong> TWIN-OPHTHALMO, a Horizon Europe Twinning project, will strengthen research excellence and innovation capacity in artificial intelligence for ophthalmology through collaboration between the Slovak University of Technology in Bratislava (STU), Lappeenranta-Lahti University of Technology (LUT), and Institut Mines-Télécom (IMT).</p>
+  <p>🔗 <strong>Project summary:</strong> <a href="/publications/#twin-ophthalmo">Read about TWIN-OPHTHALMO</a></p>
+
+  <hr style="margin: 24px 0;">
 
   <p><strong>📄 Paper Alert</strong></p>
 
@@ -70,4 +75,3 @@ redirect_from:
   <p><strong style="color: #52adc8;">January 2025:</strong> Our dataset paper <em>"GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation"</em> has been accepted in <strong>Data in Brief</strong></p>
   <p>🔗 <strong>GitHub Repository:</strong> <a href="https://github.com/Andrade-Miranda/GIRAFE" target="_blank">GIRAFE</a></p>
   <p>🔗 <strong>Journal Paper:</strong> <a href="https://www.sciencedirect.com/science/article/pii/S2352340925001088" target="_blank">Read on ScienceDirect</a></p>
-
